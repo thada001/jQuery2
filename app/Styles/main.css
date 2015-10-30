@@ -1,0 +1,61 @@
+html {
+    font-family: sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+body {
+    background: #9fe0df;
+}
+
+.panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#newList {
+	border: 3px red solid;
+}
+
+#inpr {
+	border: 3px yellow solid;
+}
+
+#arch {
+	border: 3px green solid;
+}
+
+.wrap {
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+ul {
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #e2348b;
+}
+
+form {
+    margin: 20px;
+}
+
+.list-item {
+    background: #9fe0df;
+}
